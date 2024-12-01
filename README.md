@@ -20,7 +20,7 @@ This challenge is divided into two phases:
   - Fundamental Sorting Algorithms (Bubble Sort, Merge Sort, etc.).
   - LeetCode problems and company-specific beginner-level questions.
 - **Difficulty**: Easy to Medium.
-- **Repository**: [30-Days-DSA-Challenge](#)
+- **Repository**: [30-Days-DSA-Challenge](https://github.com/darshilptl/DSA-Projects/tree/master/30%20Days%20DSA%20Challenge%20(2k24))
 
 ---
 
