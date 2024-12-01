@@ -14,14 +14,14 @@ Welcome to the **60-Days DSA Challenge**, a continuation of your DSA journey, di
 
 ---
 
-### **📅 Timeline**
-- **Days 31-45**: Binary Trees and Heaps.
+### 📅 Timeline
+- **Days 32-45**: Binary Trees and Heaps.
 - **Days 46-55**: Graph algorithms (DFS, BFS, and Shortest Paths).
 - **Days 56-60**: Advanced competitive problems and optimization techniques.
 
 ---
 
-### **🔗 Sub-Repositories**
+### Sub-Repositories
 Each day of this challenge is thoroughly documented in a sub-repository. Each sub-repo includes:
 - **Day Number**: Example: `Day-31: Binary Trees Basics`.
 - **Topics Covered**: Advanced concepts and techniques.
@@ -31,7 +31,7 @@ Each day of this challenge is thoroughly documented in a sub-repository. Each su
 
 ---
 
-### **🛠 Goal of this Challenge**
+### Goal of this Challenge
 By completing this phase, you’ll:
 - Master advanced DSA concepts and algorithms.
 - Be well-equipped for competitive programming and coding interviews.
