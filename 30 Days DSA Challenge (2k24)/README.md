@@ -18,9 +18,9 @@ Welcome to the **30-Days DSA Challenge**, a focused roadmap to build foundationa
 
 ### 📅 Timeline
 
-- **Days 1-10**: Java basics and pattern problems.
-- **Days 11-20**: Arrays and String manipulations.
-- **Days 21-30**: LinkedList, Stack, and Queue fundamentals.
+- **Days 1-3**: Java basics and pattern problems.
+- **Days 4-15**: Arrays , String and Sorting manipulations.
+- **Days 16-30**: LinkedList, Stack, and Queue fundamentals.
 
 ---
 
