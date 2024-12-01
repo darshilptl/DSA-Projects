@@ -11,7 +11,7 @@ This challenge is divided into two phases:
 
 ---
 
-### **📅 Challenge Breakdown**
+### *📅 Challenge Breakdown*
 
 #### **Phase 1: 30-Day Challenge**
 - **Focus**: 
