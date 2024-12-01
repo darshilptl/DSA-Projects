@@ -30,7 +30,7 @@ This challenge is divided into two phases:
   - Algorithms: Graph Traversals (DFS, BFS), Shortest Path Algorithms, and Union-Find.
   - Competitive Coding Questions from platforms like LeetCode and HackerRank.
 - **Difficulty**: Medium to Hard.
-- **Repository**: [60-Days-DSA-Challenge](#)
+- **Repository**: [60-Days-DSA-Challenge](https://github.com/darshilptl/DSA-Projects/tree/master/60%20days%20DSA%20Challenge%20(2k25))
 
 ---
 
