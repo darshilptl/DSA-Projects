@@ -34,7 +34,7 @@ This challenge is divided into two phases:
 
 ---
 
-### **🔗 Sub-Repositories**
+### ** Sub-Repositories**
 Each day of the challenge is documented in a sub-repository. These sub-repositories include:
 - **Topics Covered**: Key concepts explored on that day.
 - **Questions Solved**: Links to problems from platforms like LeetCode.
@@ -43,7 +43,7 @@ Each day of the challenge is documented in a sub-repository. These sub-repositor
 
 ---
 
-### **🛠 How to Use This Repository**
+### ** How to Use This Repository**
 1. Start with the [30-Days-DSA-Challenge](#) to establish your foundational knowledge.
 2. Progress to the [60-Days-DSA-Challenge](#) to tackle advanced topics.
 3. Use daily sub-repositories for detailed problem-solving walkthroughs.
