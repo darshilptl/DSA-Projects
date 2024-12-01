@@ -11,9 +11,9 @@ This challenge is divided into two phases:
 
 ---
 
-### *📅 Challenge Breakdown*
+### 📅 Challenge Breakdown
 
-#### **Phase 1: 30-Day Challenge**
+#### Phase 1: 30-Day Challenge
 - **Focus**: 
   - Java Core Basics (conditions, loops, and patterns).
   - Beginner-level Data Structures (Arrays, Strings, LinkedList, Stack, Queue).
@@ -24,7 +24,7 @@ This challenge is divided into two phases:
 
 ---
 
-#### **Phase 2: 60-Day Challenge**
+#### Phase 2: 60-Day Challenge
 - **Focus**: 
   - Advanced Data Structures (Binary Tree, Heaps, Hashing, Graphs).
   - Algorithms: Graph Traversals (DFS, BFS), Shortest Path Algorithms, and Union-Find.
@@ -34,7 +34,7 @@ This challenge is divided into two phases:
 
 ---
 
-### ** Sub-Repositories**
+### Sub-Repositories
 Each day of the challenge is documented in a sub-repository. These sub-repositories include:
 - **Topics Covered**: Key concepts explored on that day.
 - **Questions Solved**: Links to problems from platforms like LeetCode.
@@ -43,7 +43,7 @@ Each day of the challenge is documented in a sub-repository. These sub-repositor
 
 ---
 
-### ** How to Use This Repository**
+### How to Use This Repository
 1. Start with the [30-Days-DSA-Challenge](#) to establish your foundational knowledge.
 2. Progress to the [60-Days-DSA-Challenge](#) to tackle advanced topics.
 3. Use daily sub-repositories for detailed problem-solving walkthroughs.
@@ -51,7 +51,7 @@ Each day of the challenge is documented in a sub-repository. These sub-repositor
 
 ---
 
-### ** Why This Challenge? 💡 **
+###  Why This Challenge? 💡
 - **Interview Preparation**: Solve real-world problems inspired by top companies.
 - **Competitive Programming**: Sharpen your skills for coding contests.
 - **Deep DSA Mastery**: Build confidence in solving problems across difficulty levels.
