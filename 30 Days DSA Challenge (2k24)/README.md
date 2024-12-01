@@ -16,7 +16,7 @@ Welcome to the **30-Days DSA Challenge**, a focused roadmap to build foundationa
 
 ---
 
-### **📅 Timeline**
+### 📅 Timeline
 
 - **Days 1-10**: Java basics and pattern problems.
 - **Days 11-20**: Arrays and String manipulations.
@@ -24,7 +24,7 @@ Welcome to the **30-Days DSA Challenge**, a focused roadmap to build foundationa
 
 ---
 
-### **🔗 Sub-Repositories**
+### Sub-Repositories
 
 For each day of this challenge, a sub-repository includes:
 
@@ -36,7 +36,7 @@ For each day of this challenge, a sub-repository includes:
 
 ---
 
-### **🛠 Goal of this Challenge**
+### Goal of this Challenge
 
 By the end of these 30 days, you’ll:
 
@@ -44,4 +44,9 @@ By the end of these 30 days, you’ll:
 - Understand and implement fundamental data structures.
 - Be prepared to tackle intermediate-level DSA topics in the next phase.
 
-Stay consistent and enjoy the process! 🚀
+Stay consistent and enjoy the process!
+
+## Feedback
+
+If you have any feedback or suggestions, please don’t hesitate to reach out!
+📧 Email: darshilptl03@gmail.com
