@@ -51,9 +51,9 @@ Each day of the challenge is documented in a sub-repository. These sub-repositor
 
 ---
 
-### **💡 Why This Challenge?**
+### ** Why This Challenge? 💡 **
 - **Interview Preparation**: Solve real-world problems inspired by top companies.
 - **Competitive Programming**: Sharpen your skills for coding contests.
 - **Deep DSA Mastery**: Build confidence in solving problems across difficulty levels.
 
-Start your journey today and level up your coding skills! 🚀
+Start your journey today and level up your coding skills!
