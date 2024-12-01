@@ -44,8 +44,8 @@ Each day of the challenge is documented in a sub-repository. These sub-repositor
 ---
 
 ### How to Use This Repository
-1. Start with the [30-Days-DSA-Challenge](#) to establish your foundational knowledge.
-2. Progress to the [60-Days-DSA-Challenge](#) to tackle advanced topics.
+1. Start with the [30-Days-DSA-Challenge](https://github.com/darshilptl/DSA-Projects/tree/master/30%20Days%20DSA%20Challenge%20(2k24)) to establish your foundational knowledge.
+2. Progress to the [60-Days-DSA-Challenge](https://github.com/darshilptl/DSA-Projects/tree/master/60%20days%20DSA%20Challenge%20(2k25)) to tackle advanced topics.
 3. Use daily sub-repositories for detailed problem-solving walkthroughs.
 4. Stay consistent and track your progress!
 
